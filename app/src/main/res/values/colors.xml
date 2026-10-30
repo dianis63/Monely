@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="verde_oscuro">#1B5E20</color>
+    <color name="verde_primario">#2E7D32</color>
+    <color name="verde_medio">#43A047</color>
+    <color name="verde_suave">#E8F5E9</color>
+    <color name="fondo">#F4F8F4</color>
+    <color name="texto_secundario">#6B7A6F</color>
+
+    <color name="ingreso">#2E7D32</color>
+    <color name="gasto">#C62828</color>
+    <color name="ingreso_suave">#E8F5E9</color>
+    <color name="gasto_suave">#FDECEA</color>
+</resources>
